@@ -1,0 +1,73 @@
+.home__banner{
+    background-image: url("Imagenes/image_header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home__banner h1{
+    font-size: 4rem;
+    text-shadow: 5px 6px black;
+}
+
+.home__subBanner{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;   
+}
+
+.home__content__title{
+    display: flex;
+    justify-content: center;
+}
+
+.home__content__cluster{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.home__content__cluster div{
+    display: flex;
+    flex-grow: 1;
+    width: 31%;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+}
+
+.home__content__cluster a{
+    color:blue;
+    text-decoration: none;
+}
+
+.juego{
+    background-image: url("./Imagenes/Juegos.jpg");
+    background-size: cover;
+    box-shadow: 0 3px 13px 1px;
+}
+
+.impresion{
+    background-image: url("./Imagenes/Impresora.jpg");
+    background-size: cover;
+    box-shadow: 0 3px 13px 1px;
+}
+
+.modelado{
+    background-image: url("./Imagenes/Modelo.jpg");
+    background-size: cover;
+    box-shadow: 0 3px 13px 1px;
+}
+
+.pagina{
+    background-image: url("./Imagenes/Web.jpg");
+    background-size: cover;
+    box-shadow: 0 3px 13px 1px;
+}
+
+

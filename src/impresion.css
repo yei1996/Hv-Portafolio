@@ -1,0 +1,49 @@
+.contenedor{
+ text-align: center;
+ margin: auto;
+ margin: 10px 10px 50px;
+ background-color: rgb(119, 117, 117);
+ box-shadow: 0 3px 13px 1px rgb(0 0 0 / 90%);
+
+}
+
+.contenedor h1{
+    background-color: #fff;
+
+}
+
+
+.Imagen_Buu{
+justify-content: center;
+align-items: center;
+width: 400px;
+height: 400px;
+margin: 1%;
+box-shadow: 0 3px 13px 1px;
+}
+
+.Imagen_Deadpool{
+justify-content: center;
+align-items: center;
+width: 400px;
+height: 500px;
+margin: 1%;
+box-shadow: 0 3px 13px 1px;
+}
+
+.Imagen_Kratos{
+justify-content: center;
+align-items: center;
+width: 400px;
+height: 500px;
+box-shadow: 0 3px 13px 1px;
+}
+
+.Imagen_Loky{
+justify-content: center;
+align-items: center;
+width: 300px;
+height: 450px;
+margin: 1%;
+box-shadow: 0 3px 13px 1px;
+}
