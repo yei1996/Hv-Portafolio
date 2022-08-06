@@ -9,6 +9,7 @@ import Modelado from './Modelado';
 import Pagina from './Pagina';
 
 function App() {
+
   return (
     <div className="App">  
     <Header />
@@ -23,8 +24,6 @@ function App() {
         <Route path='/impresion' element={<Impresion />}/>
         <Route path='/modelado' element={<Modelado />}/>
         <Route path='/paginas' element={<Pagina />}/>
-        
-          
       
 
     </Routes>
