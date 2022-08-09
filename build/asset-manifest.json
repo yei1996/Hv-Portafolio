@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1cd22a5f.css",
+    "main.js": "/static/js/main.1dc053ce.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Juego FPS1.mp4": "/static/media/Juego FPS1.a88ca8a600b230ef7fbb.mp4",
+    "static/media/Galaxy.mp4": "/static/media/Galaxy.a4b365ae659c9401661c.mp4",
+    "static/media/Dungeon.mp4": "/static/media/Dungeon.98f6dac97e9eb62ccc7b.mp4",
+    "static/media/Push.mp4": "/static/media/Push.c112da8782988e407cc8.mp4",
+    "static/media/SpaceInvader.mp4": "/static/media/SpaceInvader.43ebafa4f3099994366f.mp4",
+    "static/media/Push2.mp4": "/static/media/Push2.83d901846f0174241cb3.mp4",
+    "static/media/Flapy.mp4": "/static/media/Flapy.0a8a258775cad9d2dd9e.mp4",
+    "static/media/Soporte3.jpg": "/static/media/Soporte3.9f39af6d35575e02a36f.jpg",
+    "static/media/Soporte1.jpg": "/static/media/Soporte1.5159036e3a1b4f244fff.jpg",
+    "static/media/Soporte2.jpg": "/static/media/Soporte2.8450aba8b558096d2352.jpg",
+    "static/media/Deadpool1.jpg": "/static/media/Deadpool1.e7a6550fddbbe028e8e7.jpg",
+    "static/media/kratos.jpg": "/static/media/kratos.bb838dbd7f6372a973b9.jpg",
+    "static/media/Buu.jpg": "/static/media/Buu.97f8051a3402d0be3fce.jpg",
+    "static/media/Loky.jpg": "/static/media/Loky.3572b3f6e7ffd5c1c586.jpg",
+    "static/media/Buterminado.jpg": "/static/media/Buterminado.2972146aa9be9253da80.jpg",
+    "static/media/Loky2.jpg": "/static/media/Loky2.c479aa03013719e16a62.jpg",
+    "static/media/Deadpool2.jpg": "/static/media/Deadpool2.4333e84fc2271f752a60.jpg",
+    "static/media/Calabaza.png": "/static/media/Calabaza.95e922acc1a6471f903c.png",
+    "static/media/Juegos.jpg": "/static/media/Juegos.d126a4e7f97855d6304a.jpg",
+    "static/media/CV_YEISON_POLO.pdf": "/static/media/CV_YEISON_POLO.2b780ab5b21e6e7da2e7.pdf",
+    "static/media/Modelo.jpg": "/static/media/Modelo.4a3f8f92e5def1e8cf21.jpg",
+    "static/media/Web.jpg": "/static/media/Web.bfe71f959d65625535ad.jpg",
+    "static/media/image_header.jpg": "/static/media/image_header.c48254e1280122868aec.jpg",
+    "static/media/Impresora.jpg": "/static/media/Impresora.6b0ecab86b9a28a41db7.jpg",
+    "index.html": "/index.html",
+    "main.1cd22a5f.css.map": "/static/css/main.1cd22a5f.css.map",
+    "main.1dc053ce.js.map": "/static/js/main.1dc053ce.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cd22a5f.css",
+    "static/js/main.1dc053ce.js"
+  ]
+}
